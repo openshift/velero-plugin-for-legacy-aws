@@ -68,4 +68,4 @@ require (
 
 exclude github.com/kcp-dev/kcp/sdk v0.0.0-00010101000000-000000000000
 
-replace github.com/vmware-tanzu/velero => github.com/openshift/velero v0.10.2-0.20260708153014-21da6ab34f9e
+replace github.com/vmware-tanzu/velero => github.com/openshift/velero v0.10.2-0.20260806152914-2945c62545ba
